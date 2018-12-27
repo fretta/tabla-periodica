@@ -4,3 +4,5 @@ pino
 laurel
 lapacho
 roble
+"Cañas"
+Tacuara
