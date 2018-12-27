@@ -1,4 +1,5 @@
 cedro
+paraiso
 pino
 laurel
 lapacho
