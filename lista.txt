@@ -4,6 +4,7 @@ pino
 laurel
 lapacho
 roble
+palo blanco
 *** Cañas agregadas ***
 tacuara
 bambu
