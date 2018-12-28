@@ -6,4 +6,5 @@ lapacho
 roble
 *** Cañas agregadas ***
 tacuara
+bambu
 *** no mas cañas
